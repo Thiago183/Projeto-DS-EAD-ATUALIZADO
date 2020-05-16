@@ -1,0 +1,11 @@
+C:\Users\Thiago\source\repos\UI-DS-EAD\BLL-DS-EAD\bin\Debug\BLL-DS-EAD.dll
+C:\Users\Thiago\source\repos\UI-DS-EAD\BLL-DS-EAD\bin\Debug\BLL-DS-EAD.pdb
+C:\Users\Thiago\source\repos\UI-DS-EAD\BLL-DS-EAD\bin\Debug\DAL-DS-EAD.dll
+C:\Users\Thiago\source\repos\UI-DS-EAD\BLL-DS-EAD\bin\Debug\DTO-DS-EAD.dll
+C:\Users\Thiago\source\repos\UI-DS-EAD\BLL-DS-EAD\bin\Debug\DAL-DS-EAD.pdb
+C:\Users\Thiago\source\repos\UI-DS-EAD\BLL-DS-EAD\bin\Debug\DTO-DS-EAD.pdb
+C:\Users\Thiago\source\repos\UI-DS-EAD\BLL-DS-EAD\obj\Debug\BLL-DS-EAD.csprojAssemblyReference.cache
+C:\Users\Thiago\source\repos\UI-DS-EAD\BLL-DS-EAD\obj\Debug\BLL-DS-EAD.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\UI-DS-EAD\BLL-DS-EAD\obj\Debug\BLL-DS-EAD.csproj.CopyComplete
+C:\Users\Thiago\source\repos\UI-DS-EAD\BLL-DS-EAD\obj\Debug\BLL-DS-EAD.dll
+C:\Users\Thiago\source\repos\UI-DS-EAD\BLL-DS-EAD\obj\Debug\BLL-DS-EAD.pdb

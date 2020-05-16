@@ -1,0 +1,17 @@
+C:\Users\Thiago\source\repos\UI-DS-EAD\UI-DS-EAD\bin\Debug\UI-DS-EAD.exe.config
+C:\Users\Thiago\source\repos\UI-DS-EAD\UI-DS-EAD\bin\Debug\UI-DS-EAD.exe
+C:\Users\Thiago\source\repos\UI-DS-EAD\UI-DS-EAD\bin\Debug\UI-DS-EAD.pdb
+C:\Users\Thiago\source\repos\UI-DS-EAD\UI-DS-EAD\obj\Debug\UI-DS-EAD.csprojAssemblyReference.cache
+C:\Users\Thiago\source\repos\UI-DS-EAD\UI-DS-EAD\obj\Debug\UI_DS_EAD.Form1.resources
+C:\Users\Thiago\source\repos\UI-DS-EAD\UI-DS-EAD\obj\Debug\UI_DS_EAD.Form3.resources
+C:\Users\Thiago\source\repos\UI-DS-EAD\UI-DS-EAD\obj\Debug\UI_DS_EAD.Properties.Resources.resources
+C:\Users\Thiago\source\repos\UI-DS-EAD\UI-DS-EAD\obj\Debug\UI-DS-EAD.csproj.GenerateResource.cache
+C:\Users\Thiago\source\repos\UI-DS-EAD\UI-DS-EAD\obj\Debug\UI-DS-EAD.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\UI-DS-EAD\UI-DS-EAD\obj\Debug\UI-DS-EAD.exe
+C:\Users\Thiago\source\repos\UI-DS-EAD\UI-DS-EAD\obj\Debug\UI-DS-EAD.pdb
+C:\Users\Thiago\source\repos\UI-DS-EAD\UI-DS-EAD\obj\Debug\UI_DS_EAD.Form2.resources
+C:\Users\Thiago\source\repos\UI-DS-EAD\UI-DS-EAD\bin\Debug\BLL-DS-EAD.dll
+C:\Users\Thiago\source\repos\UI-DS-EAD\UI-DS-EAD\bin\Debug\DTO-DS-EAD.dll
+C:\Users\Thiago\source\repos\UI-DS-EAD\UI-DS-EAD\bin\Debug\BLL-DS-EAD.pdb
+C:\Users\Thiago\source\repos\UI-DS-EAD\UI-DS-EAD\bin\Debug\DTO-DS-EAD.pdb
+C:\Users\Thiago\source\repos\UI-DS-EAD\UI-DS-EAD\obj\Debug\UI-DS-EAD.csproj.CopyComplete

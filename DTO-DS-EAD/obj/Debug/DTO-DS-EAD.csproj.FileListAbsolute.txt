@@ -1,0 +1,5 @@
+C:\Users\Thiago\source\repos\UI-DS-EAD\DTO-DS-EAD\bin\Debug\DTO-DS-EAD.dll
+C:\Users\Thiago\source\repos\UI-DS-EAD\DTO-DS-EAD\bin\Debug\DTO-DS-EAD.pdb
+C:\Users\Thiago\source\repos\UI-DS-EAD\DTO-DS-EAD\obj\Debug\DTO-DS-EAD.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\UI-DS-EAD\DTO-DS-EAD\obj\Debug\DTO-DS-EAD.dll
+C:\Users\Thiago\source\repos\UI-DS-EAD\DTO-DS-EAD\obj\Debug\DTO-DS-EAD.pdb
